@@ -13,4 +13,4 @@ A simple static e-commerce demo website with a blue and white theme, featuring a
 - Fast, simple, and ready for container deployment
 
 ## License
-MIT 
+MIT # CloudCart
